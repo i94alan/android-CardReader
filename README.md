@@ -7,10 +7,6 @@ Simple NFC reader for Android based on the sample code from the Google samples,
 for reading cards and tags and the associated descriptions.
 
 
-
-In particular, this sample demonstrates how to disable Android Beam, select which AIDs the
-reader is interested, and establish communication with the card
-
 Pre-requisites
 --------------
 
