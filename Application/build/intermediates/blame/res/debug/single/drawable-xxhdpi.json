@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\alan_chang\\AndroidStudioProjects\\android-CardReader-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\card_background.png",
+        "source": "C:\\Users\\alan_chang\\AndroidStudioProjects\\android-CardReader-master\\Application\\src\\main\\res\\drawable-xxhdpi\\card_background.png"
+    },
+    {
+        "merged": "C:\\Users\\alan_chang\\AndroidStudioProjects\\android-CardReader-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\alan_chang\\AndroidStudioProjects\\android-CardReader-master\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]
