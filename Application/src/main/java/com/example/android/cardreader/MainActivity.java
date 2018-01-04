@@ -116,6 +116,15 @@ public class MainActivity extends SampleActivityBase {
     @Override
     //this below sample from
     //https://developer.android.com/guide/topics/connectivity/nfc/nfc.html
+
+//    This is called for activities that set launchMode to "singleTop or singleTask" in their package,
+//    or if a client used the FLAG_ACTIVITY_SINGLE_TOP flag when calling startActivity(Intent).
+    // 1:
+    //if the activity is associated with enableReaderMode(activity, NfcAdapter.ReaderCallback, flags, null), it will override onNewIntent and tech filter in xml
+    //this onNewIntent won't be called
+    //or
+    // 2:
+    //if no implementing ReaderCallBack, when tapping card, onNewIntent will be launched based on the Intent-Filter set in AndroidManifest.xml
     protected void onNewIntent(Intent intent){
         super.onNewIntent(intent);
 

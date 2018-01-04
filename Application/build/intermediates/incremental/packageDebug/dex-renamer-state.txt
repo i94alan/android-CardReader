@@ -1,7 +1,0 @@
-#Thu Nov 30 17:49:30 CST 2017
-base.0=C\:\\Users\\alan_chang\\AndroidStudioProjects\\android-CardReader-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_768a9747a13cbeea5484e045447643193b7253b0
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\alan_chang\\AndroidStudioProjects\\android-CardReader-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b3c54d2f64956efef8e254a6f5e51fc45ac0568f\\classes.dex
-base.1=C\:\\Users\\alan_chang\\AndroidStudioProjects\\android-CardReader-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b3c54d2f64956efef8e254a6f5e51fc45ac0568f
-file.0=C\:\\Users\\alan_chang\\AndroidStudioProjects\\android-CardReader-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_768a9747a13cbeea5484e045447643193b7253b0\\classes.dex

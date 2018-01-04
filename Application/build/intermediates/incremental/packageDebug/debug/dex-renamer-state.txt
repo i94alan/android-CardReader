@@ -1,4 +1,4 @@
-#Tue Dec 12 10:56:30 CST 2017
+#Tue Dec 12 18:25:23 CST 2017
 base.0=C\:\\Users\\alan_chang\\AndroidStudioProjects\\android-CardReader-master\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
