@@ -3,7 +3,7 @@ Android-CardReader
 ==================
 
 
-Simple NFC card reader for Android based on the sample code from the Google samples, 
+Simple NFC cards reader for Android based on the sample code from the Google samples, 
 for reading cards and tags and the associated descriptions.
 
 
