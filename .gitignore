@@ -8,4 +8,10 @@
 /captures
 .externalNativeBuild
 /readme
+.idea
 
+# Windows
+Thumbs.db
+
+# Mac OS
+.DS_Store
